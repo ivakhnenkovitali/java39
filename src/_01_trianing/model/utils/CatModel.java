@@ -1,5 +1,4 @@
 package _01_trianing.model.utils;
-
 import lombok.AllArgsConstructor;
 import lombok.ToString;
 @AllArgsConstructor
